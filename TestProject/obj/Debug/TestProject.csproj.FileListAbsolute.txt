@@ -1,0 +1,16 @@
+C:\Users\isabe\Desktop\Jean\TestProject\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\isabe\Desktop\Jean\TestProject\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\Users\isabe\Desktop\Jean\TestProject\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\isabe\Desktop\Jean\TestProject\TestProject\TestProject\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\isabe\Desktop\Jean\TestProject\TestProject\TestProject\bin\Debug\System.Security.AccessControl.dll
+C:\Users\isabe\Desktop\Jean\TestProject\TestProject\TestProject\bin\Debug\System.Security.Permissions.dll
+C:\Users\isabe\Desktop\Jean\TestProject\TestProject\TestProject\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\isabe\Desktop\Jean\TestProject\TestProject\TestProject\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\isabe\Desktop\Jean\TestProject\TestProject\TestProject\bin\Debug\System.Security.AccessControl.xml
+C:\Users\isabe\Desktop\Jean\TestProject\TestProject\TestProject\bin\Debug\System.Security.Permissions.xml
+C:\Users\isabe\Desktop\Jean\TestProject\TestProject\TestProject\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\isabe\Desktop\Jean\TestProject\TestProject\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\isabe\Desktop\Jean\TestProject\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\isabe\Desktop\Jean\TestProject\TestProject\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+C:\Users\isabe\Desktop\Jean\TestProject\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\Users\isabe\Desktop\Jean\TestProject\TestProject\TestProject\obj\Debug\TestProject.pdb
