@@ -1,4 +1,4 @@
-﻿namespace HiperStream
+﻿namespace TestProject
 {
     public class Cliente
     {
