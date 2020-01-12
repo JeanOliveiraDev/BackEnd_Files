@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HiperStream
+namespace TestProject
 {
     class Program
     {
